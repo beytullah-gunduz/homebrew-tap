@@ -1,6 +1,6 @@
 cask "kubekubedashdash" do
-  version "1.32.0"
-  sha256 "d3e897d1a2b4337d4526d023f593388e2596f39e21177006e5b5951aa6a8a141"
+  version "1.33.0"
+  sha256 "e5fbf055f5ea32a4e379f06092d5e3b605276f9d2b8850761cf983e791537fe5"
 
   url "https://github.com/beytullah-gunduz/kubekubedashdash/releases/download/v#{version}/KubeKubeDashDash-#{version}.dmg"
   name "KubeKubeDashDash"
