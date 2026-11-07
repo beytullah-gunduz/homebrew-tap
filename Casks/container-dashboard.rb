@@ -1,6 +1,6 @@
 cask "container-dashboard" do
-  version "1.4.0"
-  sha256 "7bcbb7b599825f546d69f429773a023ee5b7a58e4f27ec02e20c0bc2a27683ac"
+  version "1.5.0"
+  sha256 "1f4a25af63d89e4ae8e37fd551659bbc8f38b3e701c2389bf48dfdfa4d7b621f"
 
   url "https://github.com/beytullah-gunduz/container-dashboard/releases/download/v#{version}/ContainerDashboard-#{version}.dmg"
   name "Container Dashboard"
